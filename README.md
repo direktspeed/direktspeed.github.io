@@ -1,4 +1,6 @@
-direktspeed.github.io
+[direktspeed.github.io](https://direktspeed.github.io)
 =====================
 
-The Organisation Webpage on GitHub.
+The [DIREKTSPEED](https://direktspeed.github.io) Organisation Webpage on GitHub. 
+
+- [blog](https://direktspeed.github.io/blog)
